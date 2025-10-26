@@ -67,5 +67,5 @@ Pronto! Seu script irá rodar e organizar a pasta.
 
 Feito por **Isabella Rodrigues** (Coloque seu nome aqui).
 
-* GitHub: `https://github.com/[SEU-USUARIO-GIT]`
+* GitHub: `https://github.com/isabellazr)`
 * LinkedIn: https://www.linkedin.com/in/isabellazrodrigues/
